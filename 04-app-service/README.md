@@ -49,7 +49,7 @@ Vista de la lista de App Services con la aplicación desplegada, mostrando su no
 
 ![App Services con Web App creada](./capturas/05-app-creada.png)
 
-### 6. Smoke test en el navegador
+### 6. Test en el navegador
 
 Acceso a la URL pública confirmando que la aplicación responde con la página por defecto de Azure.
 
