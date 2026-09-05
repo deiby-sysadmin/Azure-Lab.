@@ -43,7 +43,7 @@ Notificación de Azure durante el despliegue de la aplicación web.
 
 ![Implementación en curso](./capturas/04-implementacion.png)
 
-### 5. Web App creada
+### 5. Lista Web App
 
 Vista de la lista de App Services con la aplicación desplegada, mostrando su nombre y URL pública.
 
