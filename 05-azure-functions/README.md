@@ -19,7 +19,7 @@ Este módulo documenta la creación y validación de una **Azure Function App** 
 
 ## Concepto: ¿Qué es Serverless?
 
-Diagrama introductorio del video que explica la diferencia entre IaaS/PaaS y Azure Functions: el desarrollador solo despliega funciones y Azure se encarga de escalar, ejecutar y cobrar únicamente por el tiempo de ejecución real.
+Diagrama introductorio que explica la diferencia entre IaaS/PaaS y Azure Functions: el desarrollador solo despliega funciones y Azure se encarga de escalar, ejecutar y cobrar únicamente por el tiempo de ejecución real.
 
 ![Concepto de Serverless vs IaaS/PaaS](./capturas/00-teoria-serverless.png)
 
