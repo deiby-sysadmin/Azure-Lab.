@@ -21,37 +21,37 @@ Este módulo documenta la creación y despliegue de una **Azure Web App** en tie
 
 Diagrama de referencia de la arquitectura de 3 niveles (balanceador, zonas de disponibilidad, Redis, SQL).
 
-![Arquitectura típica de Web App de 3 niveles](./Imagenes/01-arquitectura-3-niveles.png)
+![Arquitectura típica de Web App de 3 niveles](./04-app-service/Imágenes/01-arquitectura-3-niveles.png)
 
 ### 2. Creación del Web App — Datos básicos
 
 Asistente de creación con suscripción, grupo de recursos, nombre único global, runtime Python 3.14, sistema Linux y región Spain Central.
 
-![Crear aplicación web — Datos básicos](./Imagenes/02-crear-basicos.png)
+![Crear aplicación web — Datos básicos](./04-app-service/Imágenes/02-crear-basicos.png)
 
 ### 3. Revisión y creación
 
 Resumen final de validación antes del despliegue, con SKU Gratis y plan de App Service recién creado.
 
-![Revisar y crear Web App](./Imagenes/03-revisar-crear.png)
+![Revisar y crear Web App](./04-app-service/Imágenes/03-revisar-crear.png)
 
 ### 4. Implementación en curso
 
 Notificación de Azure durante el despliegue de la aplicación web.
 
-![Implementación en curso](./Imagenes/04-implementacion.png)
+![Implementación en curso](./04-app-service/Imágenes/04-implementacion.png)
 
 ### 5. Web App creada
 
 Vista de la lista de App Services con la aplicación desplegada, mostrando su nombre y URL pública.
 
-![App Services con Web App creada](./Imagenes/05-app-creada.png)
+![App Services con Web App creada](./04-app-service/Imágenes/05-app-creada.png)
 
 ### 6. Smoke test en el navegador
 
 Acceso a la URL pública confirmando que la aplicación responde con la página por defecto de Azure.
 
-![App funcionando en el navegador](./Imagenes/06-app-funcionando-navegador.png)
+![App funcionando en el navegador](./04-app-service/Imágenes/06-app-funcionando-navegador.png)
 
 ---
 
