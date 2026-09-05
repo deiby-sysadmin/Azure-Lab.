@@ -21,37 +21,37 @@ Este módulo documenta la creación y despliegue de una **Azure Web App** en tie
 
 Diagrama de referencia de la arquitectura de 3 niveles (balanceador, zonas de disponibilidad, Redis, SQL).
 
-![Arquitectura típica de Web App de 3 niveles](./Imagenes/01-arquitectura-3-niveles.png)
+![Arquitectura típica de Web App de 3 niveles](./Capturas/01-arquitectura-3-niveles.png)
 
 ### 2. Creación del Web App — Datos básicos
 
 Asistente de creación con suscripción, grupo de recursos, nombre único global, runtime Python 3.14, sistema Linux y región Spain Central.
 
-![Crear aplicación web — Datos básicos](./imagenes/02-crear-basicos.png)
+![Crear aplicación web — Datos básicos](./Capturas/02-crear-basicos.png)
 
 ### 3. Revisión y creación
 
 Resumen final de validación antes del despliegue, con SKU Gratis y plan de App Service recién creado.
 
-![Revisar y crear Web App](./imagenes/03-revisar-crear.png)
+![Revisar y crear Web App](./Capturas/03-revisar-crear.png)
 
 ### 4. Implementación en curso
 
 Notificación de Azure durante el despliegue de la aplicación web.
 
-![Implementación en curso](./imagenes/04-implementacion.png)
+![Implementación en curso](./Capturas/04-implementacion.png)
 
 ### 5. Web App creada
 
 Vista de la lista de App Services con la aplicación desplegada, mostrando su nombre y URL pública.
 
-![App Services con Web App creada](./imagenes/05-app-creada.png)
+![App Services con Web App creada](./Capturas/05-app-creada.png)
 
 ### 6. Smoke test en el navegador
 
 Acceso a la URL pública confirmando que la aplicación responde con la página por defecto de Azure.
 
-![App funcionando en el navegador](./imagenes/06-app-funcionando-navegador.png)
+![App funcionando en el navegador](./Capturas/06-app-funcionando-navegador.png)
 
 ---
 
