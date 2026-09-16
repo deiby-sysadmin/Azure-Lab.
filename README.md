@@ -6,7 +6,7 @@ El objetivo es demostrar **experiencia real**, **buenas prácticas** y **razonam
 
 ---
 
-## 🧭 Índice de módulos
+##  Índice de módulos
 
 | # | Módulo | Tema principal | Estado |
 |---|---|---|---|
@@ -21,7 +21,7 @@ El objetivo es demostrar **experiencia real**, **buenas prácticas** y **razonam
 
 ---
 
-## 🛠️ Tecnologías y servicios practicados
+##  Tecnologías y servicios practicados
 
 - **Compute:** Azure VMs (Linux), App Service (Free F1), Azure Functions (Consumption)
 - **Redes:** Virtual Network, Subnets, Network Security Groups (NSG)
@@ -31,7 +31,7 @@ El objetivo es demostrar **experiencia real**, **buenas prácticas** y **razonam
 
 ---
 
-## 🎯 Habilidades demostradas
+##  Habilidades demostradas
 
 - Despliegue de recursos en Azure desde el portal
 - Configuración de red privada (VNet + NSG + reglas SSH)
@@ -42,7 +42,7 @@ El objetivo es demostrar **experiencia real**, **buenas prácticas** y **razonam
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Deiby Pineda**  
 Formación autodidacta en Azure Admin / Soporte IT L2  
@@ -50,7 +50,7 @@ Formación autodidacta en Azure Admin / Soporte IT L2
 
 ---
 
-## 📌 Estado del repositorio
+##  Estado del repositorio
 
 🟢 **Completado** — 8 módulos documentados con capturas, READMEs y conclusiones.
 
